@@ -15,6 +15,7 @@ SRC_C += modflashprotect.c \
 SRC_MOD += modflashprotect.c
 
 Example:
+        
         import flashprotect
         flashprotect.info()
         flashprotect.install("ABCDEFGH")
